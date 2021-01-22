@@ -68,7 +68,7 @@
 線索: 日期: 1111  
 - - -  
 **B07**  
-<img src="https://i.imgur.com/Z9UVqld.png" width="500" height="500">  
+<img src="https://i.imgur.com/Z9UVqld.png" width="400" height="300">  
 ```
 → yoche2000: order_25 B07 https://i.imgur.com/Z9UVqld.png         01/22 20:10
 → yoche2000: 噫？ 他在做什麼？     ▲        ▲                   01/22 20:10
