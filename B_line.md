@@ -62,6 +62,8 @@
 - - -
 **B06**  
 <img src="https://i.imgur.com/iDfuAMx.png" width="500" height="500">  
+解:  
+<img src="https://i.imgur.com/kcbyOj7.png" width="500" height="500">  
 看板: ?  
 線索: ?  
 
