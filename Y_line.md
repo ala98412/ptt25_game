@@ -26,3 +26,16 @@
 看板: friends  
 線索: 作者ID: cu  
 &emsp;&emsp;&nbsp;&nbsp;標題: 忙碌  
+- - -
+**Y04**  
+<img src="https://imgur.com/Yheyuj9.jpg" width="400" hidth="300">
+看板: EMS  
+線索: 1923  
+- - -
+**Y05**  
+*情報Y1*  
+<img src="https://i.imgur.com/CK6MCop.png" width="400" hidth="300">  
+*題目*  
+<img src="https://i.imgur.com/PxtcayA.png" width="400" hidth="300">  
+看板: ? 
+線索: ?  
