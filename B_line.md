@@ -30,7 +30,7 @@
 線索: 文章標題: Obliviate + 西裝  
 
 **B03**  
-<img src="https://imgur.com/v7QrQQx.jpg" width="300" height="300">  
+<img src="https://imgur.com/v7QrQQx.jpg" width="400" height="300">  
 ```
 → fishinair   : ----------B03-----PTT_Order-25-----               01/19 06:43
 → fishinair   : https://imgur.com/v7QrQQx.jpg                     01/19 06:44
