@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/4czT4Yo.jpg" width="300" height="300">  
 看板: notebook  
 線索: 文章標題: 壓縮機  
-
+- - -
 **B01**  
 ```
 → david0426: ——PTT25—-                                         01/18 11:59  
@@ -16,7 +16,7 @@
 看板: LOL  
 線索: 文章編號 2686
 
-
+- - -
 **B02**
 ```
 推 samhou6     :        ==========第25號密令  B02==========        01/17 22:56  
@@ -28,7 +28,7 @@
 ```
 看板: Lovelyz  
 線索: 文章標題: Obliviate + 西裝  
-
+- - -
 **B03**  
 <img src="https://imgur.com/v7QrQQx.jpg" width="400" height="300">  
 ```
@@ -40,7 +40,7 @@
 ```
 看板: sex  
 線索: 精華區(z) -> 8.活動紀錄區 -> 3.2013年雞排宴 -> 2.(請進)-----2021 ptt25周年大地遊戲
-
+- - -
 **B04**  
 恭喜各位有情有液西斯人  成功找到此關答案所在地  
 下一關的提示在此  
@@ -48,6 +48,17 @@
 看板: AnimalGoods  
 線索: 作者:Anky  
 &emsp;&emsp;&nbsp;&nbsp;標題:活動  
+- - -
+**B05**
+*線索*  
+<img src="https://i.imgur.com/QcGcKxn.png" width="400" height="300">  
+看板線索:  
+<img src="https://i.imgur.com/xDO77X7.png" width="400" height="300">  
+文章線索:  
+<img src="https://i.imgur.com/vbdo3jC.png" width="400" height="300">  
+看板: ?  
+線索: ?  
+
 
 
 
