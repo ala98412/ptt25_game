@@ -49,7 +49,7 @@
 線索: 作者:Anky  
 &emsp;&emsp;&nbsp;&nbsp;標題:活動  
 - - -
-**B05**
+**B05**  
 *線索*  
 <img src="https://i.imgur.com/QcGcKxn.png" width="400" height="300">  
 看板線索:  
