@@ -101,6 +101,7 @@ B08     https://youtu.be/TzQtSJ4m1Hw
 → finhisky: B09     https://i.imgur.com/gmM7T7K.jpg               01/17 23:20
 → finhisky: ========PTT25_Game===========  ヾ(′〇‵)ﾉ           01/17 23:21
 ```
+<img src="https://i.imgur.com/gmM7T7K.jpg" width="400" height="300">  
 看板:  
 線索:  
 
