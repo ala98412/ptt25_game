@@ -56,9 +56,12 @@
 <img src="https://i.imgur.com/xDO77X7.png" width="400" height="300">  
 文章線索:  
 <img src="https://i.imgur.com/vbdo3jC.png" width="400" height="300">  
-看板: EZsoft?  
+看板: EZsoft  
+線索: 關鍵字:PCman  
+&emsp;&emsp;&nbsp;&nbsp;日期:2005/04(最上面)  
+- - -
+**B06**  
+<img src="https://i.imgur.com/iDfuAMx.png" width="500" height="500">  
+看板: ?  
 線索: ?  
-
-
-
 
