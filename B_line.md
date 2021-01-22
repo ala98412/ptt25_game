@@ -45,7 +45,9 @@
 恭喜各位有情有液西斯人  成功找到此關答案所在地  
 下一關的提示在此  
 <img src="https://i.imgur.com/3qZvivm.jpg" width="400" height="300">  
-看板:  
-線索:  
+看板: AnimalGoods  
+線索: 作者:Anky  
+&emsp;&emsp;&nbsp;&nbsp;標題:活動  
+
 
 
