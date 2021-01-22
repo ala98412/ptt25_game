@@ -56,7 +56,7 @@
 <img src="https://i.imgur.com/xDO77X7.png" width="400" height="300">  
 文章線索:  
 <img src="https://i.imgur.com/vbdo3jC.png" width="400" height="300">  
-看板: ?  
+看板: EZsoft?  
 線索: ?  
 
 
