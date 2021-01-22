@@ -26,5 +26,18 @@
 → samhou6     : 請法師們路過時多加小心。                          01/17 23:01  
 → samhou6     :        ==========第25號密令  B02==========        01/17 23:04  
 ```
+看板: Lovelyz  
+線索: 文章標題: Obliviate + 西裝  
+
+**B03**  
+<img src="https://imgur.com/v7QrQQx.jpg" width="300" height="300">  
+```
+→ fishinair   : ----------B03-----PTT_Order-25-----               01/19 06:43
+→ fishinair   : https://imgur.com/v7QrQQx.jpg                     01/19 06:44
+→ fishinair   : 提示:由於此事件導火線之文章已消失                 01/19 06:44
+→ fishinair   : 請前往某板精華區對此事件特別紀錄的資料夾尋找      01/19 06:44
+→ fishinair   : ----------B03-----PTT_Order-25-----               01/19 06:44
+```
 看板:  
-線索:
+線索:   
+
