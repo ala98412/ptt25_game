@@ -64,6 +64,17 @@
 <img src="https://i.imgur.com/iDfuAMx.png" width="500" height="500">  
 解:  
 <img src="https://i.imgur.com/kcbyOj7.png" width="500" height="500">  
+看板: VALORANT    
+線索: 日期: 1111  
+- - -  
+**B07**  
+<img src="https://i.imgur.com/Z9UVqld.png" width="500" height="500">  
+```
+→ yoche2000: order_25 B07 https://i.imgur.com/Z9UVqld.png         01/22 20:10
+→ yoche2000: 噫？ 他在做什麼？     ▲        ▲                   01/22 20:10
+→ yoche2000: --------------------------------------------         01/22 20:11
+```
 看板: ?  
 線索: ?  
+
 
